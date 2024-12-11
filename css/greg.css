@@ -1,0 +1,9 @@
+* {
+    font-family: "Lexend", sans-serif;
+}
+body, textarea, button {
+    background-color: black;
+}
+h1, h2, button, textarea {
+    color: white;
+}
